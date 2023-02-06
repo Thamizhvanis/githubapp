@@ -5,7 +5,7 @@
 <h1>DevOps Demo</h1>
 
 <?php 
-echo "AWS DevOps - CodeCommit<br>"; 
+echo "AWS DevOps - CodeCommit"; 
 ?>
 
 </body>
