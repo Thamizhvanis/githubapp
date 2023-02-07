@@ -1,0 +1,11 @@
+version: 0.1
+phases:
+  pre_build:
+    commands:
+      - echo This is codecommit demo....
+  build:
+    commands:
+      - echo This is build demo....
+artifacts:
+    files:
+      - '**/*'
